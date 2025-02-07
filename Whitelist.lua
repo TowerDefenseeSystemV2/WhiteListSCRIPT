@@ -1,5 +1,4 @@
-{
+return {
   ["Paradoxer_Dev"] = true,
   ["Clavizah"] = true
 }
-print("YOOOOOOOOOOOOOOOOOOOOOOOOOOO1OOO")
