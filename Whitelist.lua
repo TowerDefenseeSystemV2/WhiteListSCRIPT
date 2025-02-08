@@ -1,4 +1,7 @@
 return {
-  ["Paradoxer_Dev"] = true,
+  ["Pens"] = {
+    attack = 1488,
+    penis = 1444444,
+  },
   ["Clavizah"] = true
 }
